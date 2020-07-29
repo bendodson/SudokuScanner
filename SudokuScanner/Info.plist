@@ -62,5 +62,11 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>This app can use your camera to take photos of Sudoku</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>This app can use your photo library to import images of Sudoku</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>This app can use your photo library to import images of Sudoku</string>
 </dict>
 </plist>
